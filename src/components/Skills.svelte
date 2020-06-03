@@ -5,17 +5,30 @@
 <style>
     .skills {
         position: relative;
-        width: 40%;
         padding-top: 2rem;
+        max-width: 384px;
+    }
+    @media screen and (min-width:1024px) {
+        .skills {
+            width: 40%;
+        }
     }
 
     .skills .title-content {
         display: flex;
         align-items: center;
-        position: absolute;
-        transform: rotate(-90deg);
-        top: 8rem;
-        left: -8rem;
+        margin-bottom: 2rem;
+    }
+    @media screen and (min-width:1024px) {
+        .skills .title-content {
+            display: flex;
+            align-items: center;
+            position: absolute;
+            transform: rotate(-90deg);
+            top: 8rem;
+            left: -8rem;
+            margin-bottom: 0;
+        }
     }
 
     .skills .title-content .title {
@@ -29,15 +42,33 @@
     .skills .content {
         background-color: #ffffff;
         border: 5px solid #3A4240;
-        padding: 2rem;
+        padding: 1rem;
         box-shadow: 10px 10px 0px 0px rgba(58, 66, 64, 0.8);
+    }
+    @media screen and (min-width:1024px) {
+        .skills .content {
+            padding: 2rem;
+        }
     }
 
     .skills .content .item {
         display: flex;
         justify-content: space-between;
+        flex-direction: column;
         width: 100%;
         margin-bottom: 0.5rem; 
+    }
+    @media screen and (min-width:360px) {
+        .skills .content .item {
+            align-items: center;
+            flex-direction: row;
+            font-size: 0.8rem;
+        }
+    }
+    @media screen and (min-width:420px) {
+        .skills .content .item {
+            font-size: 1rem;
+        }
     }
     
     .skills .content .item:last-child {

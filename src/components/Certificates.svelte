@@ -4,13 +4,9 @@
 
 <style>
     .certificates-wrapper {
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
     }
-    @media screen and (min-width:1024px) {
-        .certificates-wrapper {
-            margin-bottom: 2rem;
-        }
-    }
+    
     .certificates-wrapper .title {
         font-family: 'Chelsea Market', cursive;
         font-weight: normal;

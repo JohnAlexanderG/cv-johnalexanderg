@@ -37,12 +37,23 @@
         max-width: 1024px;
         margin: 0 auto;
         height: auto;
-        padding: 2rem;
+        padding: 1rem;
+    }
+    @media screen and (min-width:1024px) {
+        main {
+            padding: 2rem;
+        }
     }
 
     .w-exp-and-skills {
         display: flex;
+        flex-direction: column;
         justify-content: space-between; 
+    }
+    @media screen and (min-width:1024px) {
+        .w-exp-and-skills {
+            flex-direction: row;
+        }
     }
 </style>
 

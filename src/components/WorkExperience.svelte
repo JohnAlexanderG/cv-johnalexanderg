@@ -1,6 +1,11 @@
 <style>
     .work-experience {
-        width: 50%;
+        max-width: 480px;
+    }    
+    @media screen and (min-width:1024px){
+        .work-experience {
+            width: 50%;
+        }
     }
 
     .work-experience .title-content {
@@ -11,9 +16,14 @@
     .title-content .title {
         font-family: 'Chelsea Market', cursive;
         font-weight: normal;
-        font-size: 1.75rem;
         margin: 0;
         text-align: center;
+        font-size: 1.4rem;
+    }
+    @media screen and (min-width:1024px) {
+        .title-content .title {
+            font-size: 1.75rem;
+        }
     }
 
     .content {
