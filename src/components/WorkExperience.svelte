@@ -60,6 +60,14 @@
     </div>
     <div class="content">
         <div>
+            <span class="title">E-Commerce Factory - 2020 Freelance</span>
+            <p class="text">Soluciones técnicas en Front end en plataformas Wordpress y Prestashop.</p>
+        </div>
+        <div>
+            <span class="title">BlackSip - 2020 Freelance</span>
+            <p class="text">Soluciones técnicas en Front-end en plataformas VTEX y VTEX IO, Soporte de tiendas para ( Samsung, panamericana, Kosta Azul ).</p>
+        </div>
+        <div>
             <span class="title">BlackSip - 2019 - 2020</span>
             <p class="text">Desarrollador Front-end trabando en plataformas de eCommerce ( VTEX y Oracle Commerce Cloud ) Soporte en tiendas ( Sony, Haceb, Coomultrasan ) e Implementación con VTEX IO.</p>
         </div>
