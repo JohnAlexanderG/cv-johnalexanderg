@@ -61,7 +61,7 @@
     <Contact { email } { phone } />
     <About { shortName } { position } />
     <Certificates />
-    <section class="w-exp-and-skills">
+    <section style="display: none;" class="w-exp-and-skills">
         <WorkExperience />
         <Skills />
     </section>
