@@ -84,6 +84,10 @@
     </div>
     <div class="content">
         <div class="item">
+            <span>VTEX</span>				
+            <Rect porcent='84' />
+        </div>
+        <div class="item">
             <span>React</span>				
             <Rect porcent='76' />
         </div>
@@ -122,10 +126,6 @@
         <div class="item">
             <span>Flutter</span>				
             <Rect porcent='38' />
-        </div>
-        <div class="item">
-            <span>VTEX</span>				
-            <Rect porcent='48' />
         </div>
         <div class="item">
             <span>Svelte</span>				
