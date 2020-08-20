@@ -58,11 +58,9 @@
 </style>
 
 <main>
-    <section style="display:none;" >
-        <Contact { email } { phone } />
-        <About { shortName } { position } />
-        <Certificates />
-    </section>
+    <Contact { email } { phone } />
+    <About { shortName } { position } />
+    <Certificates />
     <section class="w-exp-and-skills">
         <WorkExperience />
         <Skills />
