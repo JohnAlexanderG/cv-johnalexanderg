@@ -60,11 +60,11 @@
     </div>
     <div class="content">
         <div>
-            <span class="title">E-Commerce Factory - 2020 Freelance</span>
+            <span class="title">E-Commerce Factory - 2020</span>
             <p class="text">Soluciones técnicas en Front end en plataformas Wordpress y Prestashop.</p>
         </div>
         <div>
-            <span class="title">TitaMedia - 2020 Freelance</span>
+            <span class="title">TitaMedia - 2020</span>
             <p class="text">Soluciones técnicas en Front-end en plataformas VTEX y VTEX IO, Soporte de tiendas para ( Samsung, panamericana, Kosta Azul ).</p>
         </div>
         <div>
