@@ -61,23 +61,23 @@
 <section class="certificates-wrapper">
     <h2 class="title">Certificados</h2>
     <div class="certificates">
-        <a class="item" href="/certificates/vtex.pdf" target="_blank">
+        <a class="item" href="/cert/vtex.pdf" target="_blank">
             <img style="width:60px;" src="/img/icons/certificate.svg" alt="certificate-icon">
             <p><img style="width:15px;" src="/img/icons/down-arrow.svg" alt="down-arrow-icon">VTEX Support </p>
         </a>
-        <a class="item" href="/certificates/javascript-avanzado.png" target="_blank">
+        <a class="item" href="/cert/javascript-avanzado.png" target="_blank">
             <img style="width:60px;" src="/img/icons/certificate.svg" alt="certificate-icon">
             <p><img style="width:15px;" src="/img/icons/down-arrow.svg" alt="down-arrow-icon">JavaScript Avanzado</p>
         </a>
-        <a class="item" href="/certificates/es6.png" target="_blank">
+        <a class="item" href="/cert/es6.png" target="_blank">
             <img style="width:60px;" src="/img/icons/certificate.svg" alt="certificate-icon">
             <p><img style="width:15px;" src="/img/icons/down-arrow.svg" alt="down-arrow-icon">ES6 for Everyone</p>
         </a>
-        <a class="item" href="/certificates/firebase.png" target="_blank">
+        <a class="item" href="/cert/firebase.png" target="_blank">
             <img style="width:60px;" src="/img/icons/certificate.svg" alt="certificate-icon">
             <p><img style="width:15px;" src="/img/icons/down-arrow.svg" alt="down-arrow-icon">Firebase</p>
         </a>
-        <a class="item" href="/certificates/desarrollo-personal.png" target="_blank">
+        <a class="item" href="/cert/desarrollo-personal.png" target="_blank">
             <img style="width:60px;" src="/img/icons/certificate.svg" alt="certificate-icon">
             <p><img style="width:15px;" src="/img/icons/down-arrow.svg" alt="down-arrow-icon">Desarrollo personal</p>
         </a>
